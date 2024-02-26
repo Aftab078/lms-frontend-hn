@@ -11,3 +11,7 @@
     initalState,
     reducers: {},
  });
+
+//  export const {} = authSlic.actions;
+ export default autherSlice.reducer;
+ 
